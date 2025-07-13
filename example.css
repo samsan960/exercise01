@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Tektur:wght@400..900&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+*{
+     font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    margin: 0%;
+    padding: 0%;
+
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://wallpapercat.com/w/full/8/9/2/927542-3840x2160-desktop-4k-love-couple-background-photo.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.sam {
+  padding-top: 100px !important;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  color: thistle;
+}
+    
+   
+.sam h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.sam p {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 166, 0);
+}
+
+.sam button {
+    background-color: #580505;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    border-radius: no radius;
+    position: absolute;
+    position-area: top;
+
+}
+.footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
